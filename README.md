@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola 👋, soy Joseph Irving Velazquez Noya
 
-<!--
-**lJOSJOSl/lJOSJOSl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador en aprendizaje enfocado en Python.  
+Me gusta crear proyectos prácticos para mejorar mis habilidades y construir mi portafolio.
 
-Here are some ideas to get you started:
+## 🛠️ Actualmente trabajando en:
+- Sistema de Biblioteca
+- Sistema de Caja (POS)
+- CRUD de Empleados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Aprendiendo:
+- Python
+- Git y GitHub
+- Desarrollo de software
+
+## 🚀 Próximos proyectos:
+-Punto de venta que integre gestion de stock y ventas
+
