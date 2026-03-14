@@ -1,7 +1,7 @@
 # Hola 👋, soy Joseph Irving Velazquez Noya
 
 Soy un desarrollador en aprendizaje enfocado en Python.  
-Me gusta crear proyectos prácticos para mejorar mis habilidades y construir mi portafolio.
+Actualmente estoy creando proyectos para mejorar mis habilidades en programacion.
 
 ## 🛠️ Actualmente trabajando en:
 - Sistema de Biblioteca
