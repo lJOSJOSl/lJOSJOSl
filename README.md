@@ -1,16 +1,20 @@
 # Hola 👋, soy Joseph Irving Velazquez Noya
 
-💻 Buscando oportunidades como desarrollador junior
+💻 Desarrollador Junior en formación 
+🚀 Buscando oportunidades como desarrollador junior
 
 Soy un desarrollador en formación enfocado en Python.  
-Me gusta crear proyectos prácticos para mejorar mis habilidades
-y construir mi portafolio.
+Me gusta crear proyectos prácticos para mejorar mis
+habilidades y construir mi portafolio.
 
 ## 🛠️ Proyectos
 
-- Sistema de Biblioteca
-- Sistema de Caja (POS)
-- CRUD de Empleados
+- [Sistema biblioteca] (https://github.com/lJOSJOSl/sistema-biblioteca)
+  Sistema para gestión de libros y usuarios.
+- [Sistema de Caja (POS)] (https://github.com/lJOSJOSl/sistema_punto_venta.git)
+  Aplicación para gestionar ventas y productos.
+- [CRUD de Empleados](https://github.com/lJOSJOSl/crud-empleados.git)
+  Sistema en Python para crear, leer, actualizar y eliminar empleados.
 
 ## 📚 Actualmente Aprendiendo
 
