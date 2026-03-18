@@ -1,6 +1,6 @@
 # Hola 👋, soy Joseph Irving Velazquez Noya
 
-💻 Desarrollador Junior en formació<br>
+💻 Desarrollador Junior en formación<br>
 
 🚀 Buscando oportunidades como desarrollador junior
 
