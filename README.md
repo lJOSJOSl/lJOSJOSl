@@ -11,9 +11,9 @@ habilidades y construir mi portafolio.
 
 - [Sistema biblioteca] (https://github.com/lJOSJOSl/sistema-biblioteca)
   Sistema para gestión de libros y usuarios.
-- [Sistema de Caja (POS)] (https://github.com/lJOSJOSl/sistema_punto_venta.git)
+- [Sistema de Caja (POS)] (https://github.com/lJOSJOSl/sistema_punto_venta)
   Aplicación para gestionar ventas y productos.
-- [CRUD de Empleados](https://github.com/lJOSJOSl/crud-empleados.git)
+- [CRUD de Empleados](https://github.com/lJOSJOSl/crud-empleados)
   Sistema en Python para crear, leer, actualizar y eliminar empleados.
 
 ## 📚 Actualmente Aprendiendo
