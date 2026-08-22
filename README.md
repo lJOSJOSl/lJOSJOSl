@@ -23,7 +23,7 @@ Tengo gran afinidad por el mundo tecnologico.
 
 ## 📚 Actualmente Aprendiendo
 
-- Python (Tengo un repositorio de apuntes de los fundamentos de python 📖([apuntes])(https://github.com/lJOSJOSl/apuntes) )
+- Python (Tengo un repositorio de apuntes de los fundamentos de python 📖[apuntes](https://github.com/lJOSJOSl/apuntes) )
 - Git y GitHub
 - Desarrollo de software
 
