@@ -5,8 +5,7 @@
 🚀 Buscando oportunidades como desarrollador junior
 
 Soy un desarrollador en formación enfocado en Python.  
-Me gusta crear proyectos prácticos para mejorar mis
-habilidades y construir mi portafolio.
+Tengo gran afinidad por el mundo tecnologico.
 
 ## 🛠️ Proyectos
 
@@ -24,7 +23,7 @@ habilidades y construir mi portafolio.
 
 ## 📚 Actualmente Aprendiendo
 
-- Python
+- Python (Tengo un repositorio de apuntes de los fundamentos de python 📖[APUNTES](https://github.com/lJOSJOSl/apuntes))
 - Git y GitHub
 - Desarrollo de software
 
