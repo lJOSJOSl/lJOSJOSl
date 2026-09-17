@@ -1,4 +1,4 @@
-# Hola 👋, soy Joseph Irving Velazquez Noya
+# Hola, me llamo Joseph 
 
 💻 Desarrollador Junior en formación<br>
 
@@ -8,6 +8,9 @@ Soy un desarrollador en formación enfocado en Python.
 Tengo gran afinidad por el mundo tecnologico.
 
 ## 🛠️ Proyectos
+
+- 📄(Proximamente) [Gestor de Personas]()
+  Gestion de datos de personas 
 
 - 📚 [Sistema biblioteca](https://github.com/lJOSJOSl/sistema-biblioteca) 
  
@@ -23,15 +26,22 @@ Tengo gran afinidad por el mundo tecnologico.
 
 ## 📚 Actualmente Aprendiendo
 
-- Python (Tengo un repositorio de apuntes de los fundamentos de python 📖[apuntes](https://github.com/lJOSJOSl/apuntes) )
+- Python 
+  📖[apuntes](https://github.com/lJOSJOSl/apuntes)
 - Git y GitHub
-- Desarrollo de software
+- Bacend
+- Frontend
+
+## 🔧 Actualmente Trabajando
+
+- Gestor de personas
 
 ## 🚀 Próximos proyectos
 
-- Sistema de punto de venta que integre gestión de stock y ventas
+🔄 Mejorar Sistema de Biblioteca
+🔄 Mejorar Sistema de Caja (POS)
+🔄 Mejorar CRUD de Empleados
 
 ## 📫 Contacto
 
 - GitHub: https://github.com/lJOSJOSl
-- Correo: ghostvelaz2000@gmail.com
