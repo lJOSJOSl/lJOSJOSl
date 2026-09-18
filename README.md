@@ -9,7 +9,8 @@ Tengo gran afinidad por el mundo tecnologico.
 
 ## 🛠️ Proyectos
 
-- 📄(Proximamente) [Gestor de Personas]()
+- 📄[Gestor de Personas](https://github.com/lJOSJOSl/gestor_personas)
+  
   Gestion de datos de personas 
 
 - 📚 [Sistema biblioteca](https://github.com/lJOSJOSl/sistema-biblioteca) 
