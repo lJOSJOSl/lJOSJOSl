@@ -10,9 +10,9 @@ Tengo gran afinidad por el mundo tecnologico.
 ## 🛠️ Proyectos
 
 - 📄Gestor de Personas (links pendientes)
-  v.0.1 Sin modulos(proximamente)
-  v.0.2 Modulo csv(proximamente)
-  v.0.3 Modulo JSON(proximamente)
+v.0.1 Sin modulos(proximamente)
+v.0.2 Modulo csv(proximamente)
+v.0.3 Modulo JSON(proximamente)
   
 - 📚 [Sistema biblioteca](https://github.com/lJOSJOSl/sistema-biblioteca) 
  
