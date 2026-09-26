@@ -1,52 +1,85 @@
-# Hola, me llamo Joseph Irving Velazquez Noya
+# Hola 🙌
 
-💻 Desarrollador Junior en formación<br>
+Me llamo Joseph, puedes decirme JOS.
 
-🚀 Buscando oportunidades como desarrollador junior.
+📓 Actualmente estudio para convertirme en un **Desarrollador Junior**, estoy trabajando proyectos para fortalecer mis conocimientos, preparándome para mi primer oportunidad laboral.
 
-Soy un desarrollador en formación enfocado en Python.  
-Tengo gran afinidad por el mundo tecnologico.
+🐍 Comencé enfocado en **Python Backend**. Durante el proceso he tenido la oportunidad de conocer el panorama del desarrollo **Full Stack**, aunque actualmente el principal objetivo es seguir fortaleciendo las bases y fundamentos de la programación y **backend**.
+
+👨‍💻Siempre he tenido una gran afinidad por el mundo de la tecnologia y disfruto aprender mediante la creacion de proyectos practicos.
+
+## Registro de aprendizaje
+
+Tengo un repositorio con apuntes, ejercicios y ejemplos de los temas que he visto.
+
+- 📖[APUNTES](https://github.com/lJOSJOSl/apuntes)
+
+En este repositorio registro conceptos, ejemplos de código y ejercicios que me ayudaron a reforzar mi aprendizaje
 
 ## 🛠️ Proyectos
 
-- 📄Gestor de Personas (links pendientes)
-v.0.1 Sin modulos(proximamente)
-v.0.2 Modulo csv(proximamente)
-v.0.3 Modulo JSON(proximamente)
+### 📄Gestor de Personas 
+  `(1 de 3 versiones completadas)`
   
-- 📚 [Sistema biblioteca](https://github.com/lJOSJOSl/sistema-biblioteca) 
+  Proyecto desarrollado para practicar diferentes formas de almacenar y gestionar datos.
+
+  - 📁 [Versión TXT](https://github.com/lJOSJOSl/gestor-personas-txt)
+  Lectura y escritura manual de datos en archivos `.txt`.
+  - 📊 [Versión CSV] - Proximamente
+  -  🖇️ Versión JSON - Proximamente
+  
+### 📚 Sistema de Biblioteca
+
+[Repositorio](https://github.com/lJOSJOSl/sistema-biblioteca) 
  
   Sistema para gestión de libros y usuarios.
 
-- 🧾 [Sistema de Caja (POS)](https://github.com/lJOSJOSl/sistema_punto_venta)  
+### 🧾 Sistema de Caja (POS)
+
+[Repositorio](https://github.com/lJOSJOSl/sistema_punto_venta)  
 
   Aplicación para gestionar ventas y productos.
 
-- 👨‍💼 [CRUD de Empleados](https://github.com/lJOSJOSl/crud-empleados)  
+### 👨‍💼 CRUD de Empleados
+
+[Repositorio](https://github.com/lJOSJOSl/crud-empleados)  
 
   Sistema en Python para crear, leer, actualizar y eliminar empleados.
 
 ## 📚 Actualmente Aprendiendo
 
-- Python 
-  📖[apuntes](https://github.com/lJOSJOSl/apuntes)
-- Git y GitHub
-- Backend
-- Frontend
+- Python 🐍
+- Git y GitHub 🔧
+- Desarrollo Backend ⚙️
+- Desarrollo Frontend 🌐
 
 ## 🔧 Actualmente Trabajando
 
-- Gestor de personas
-  Se crearan tres versiones para reforzar lo aprendido del manejo de datos:
-  v.0.1 Una versión de lectura y escritura manual.
-  v.0.2 Una versión de lectura y escritura con el modulo csv.
-  v.0.3 Una versión de lectura y escritua con el modulo json.
+### Gestor de personas
+
+Estoy desarrollando tres versiones del proyecto para reforzar el manejo y almacenamiento de datos.
+
+* Una versión de lectura y escritura manual.✅
+  
+* Una versión con el modulo csv.❌
+  
+* Una versión con el modulo json.❌
+
+La idea es comparar diferentes formas de trabajo con información persistente mientras continuo desarrollando mis fundamentos de Python.
 
 ## 🚀 Próximos proyectos
 
-🔄 Mejorar Sistema de Biblioteca
-🔄 Mejorar Sistema de Caja (POS)
-🔄 Mejorar CRUD de Empleados
+* 🔄 Mejorar Sistema de Biblioteca
+
+* 🔄 Mejorar Sistema de Caja (POS)
+
+* 🔄 Mejorar CRUD de Empleados
+
+* 🔄 Continuar desarrollando futuros proyectos para fortalecer mis conocimientos.
+
+## 🎯 Objetivo
+
+Continuar aprendiendo mediante proyectos prácticos, mejorar progresivamente la calidad de mi código y prepararme para mi primera oportunidad como desarollador Junior.
 
 ## 📫 Contacto
 
